@@ -1,0 +1,1468 @@
+{
+  "users": [
+    {
+      "_id": "admin-system-master",
+      "email": "admin@skillorbit.com",
+      "password_hash": "$2b$12$BmQdOKh7CxNeX.poURvhZewEEJPirThzvyHPX6RlfaBJ7s5HX9T12",
+      "full_name": "Platform Super Admin",
+      "role": "admin",
+      "avatar_url": "",
+      "is_verified": true,
+      "is_onboarded": true,
+      "theme": "dark",
+      "status": "active",
+      "created_at": "2026-08-28T16:57:51.905351+00:00",
+      "updated_at": "2026-08-28T16:57:51.905375+00:00"
+    },
+    {
+      "_id": "6c927713-d849-4f6b-b2e8-8954adca6ff5",
+      "email": "student_sih_4@test.com",
+      "password_hash": "$2b$12$1sKBgLLXFW92HwR5aq5s0ODCzW.x64J0CYlO/oHlfyzeT/1blIcWG",
+      "full_name": "Aarav Sharma",
+      "role": "student",
+      "avatar_url": "",
+      "is_verified": false,
+      "is_onboarded": false,
+      "theme": "dark",
+      "created_at": "2026-08-28T16:58:36.976183+00:00",
+      "updated_at": "2026-08-28T16:58:36.976183+00:00",
+      "status": "active",
+      "auth_provider": "local"
+    },
+    {
+      "_id": "1b4f8d8a-3971-4f78-9f7f-5449168cd4f9",
+      "email": "test_1@example.com",
+      "password_hash": "$2b$12$wQtcLlJkDspIfIO3WQk8POiZFyLba/YCJ7L/LKkJG9vyGql7ssvOm",
+      "full_name": "Test User",
+      "role": "student",
+      "avatar_url": "",
+      "is_verified": false,
+      "is_onboarded": false,
+      "theme": "dark",
+      "created_at": "2026-08-28T16:59:02.100832+00:00",
+      "updated_at": "2026-08-28T16:59:02.100832+00:00",
+      "status": "active",
+      "auth_provider": "local"
+    },
+    {
+      "_id": "3c58ef06-5f38-449c-b017-871385a7a82f",
+      "email": "student_sih_9@test.com",
+      "password_hash": "$2b$12$F8ywdkbQLIJFStQaXVG35uQpvbDzT/piPzIIbD6mYyE1hLbpDUjTm",
+      "full_name": "Aarav Sharma",
+      "role": "student",
+      "avatar_url": "",
+      "is_verified": false,
+      "is_onboarded": false,
+      "theme": "dark",
+      "created_at": "2026-08-28T17:22:41.540365+00:00",
+      "updated_at": "2026-08-28T17:22:41.540365+00:00",
+      "status": "active",
+      "auth_provider": "local"
+    },
+    {
+      "_id": "81206210-e5c9-434f-bc11-9ec62a67b72a",
+      "email": "student_sih_6@test.com",
+      "password_hash": "$2b$12$.1Z7IL7Rrgquxy8NeoGm6uDoHKh96pOm8mnc6yfcumiRe43aRebLO",
+      "full_name": "Aarav Sharma",
+      "role": "student",
+      "avatar_url": "",
+      "is_verified": false,
+      "is_onboarded": false,
+      "theme": "dark",
+      "created_at": "2026-08-28T17:25:10.370382+00:00",
+      "updated_at": "2026-08-28T17:25:10.370382+00:00",
+      "status": "active",
+      "auth_provider": "local"
+    },
+    {
+      "_id": "f64eb45d-f8f6-4aad-aac3-b0e6f8bd50f8",
+      "email": "student_sih_3@test.com",
+      "password_hash": "$2b$12$6rB/IVyJ1EYRJ1TwQyESoOcHUXPuMtNP0JhlOtEE5JhUMQLepI2FK",
+      "full_name": "Aarav Sharma",
+      "role": "student",
+      "avatar_url": "",
+      "is_verified": false,
+      "is_onboarded": true,
+      "theme": "dark",
+      "created_at": "2026-08-28T17:27:47.035882+00:00",
+      "updated_at": "2026-08-28T17:27:47.035882+00:00",
+      "status": "active",
+      "auth_provider": "local"
+    },
+    {
+      "_id": "6159e9fa-2bc0-4c91-9cb8-ae53555db510",
+      "email": "recruiter_sih_2@techcorp.com",
+      "password_hash": "$2b$12$veojI2Kbnct5AEOBBcUZUueFUEHcGZhQE6EmY2g1Twry9Z30CbUy.",
+      "full_name": "Priya Nair",
+      "role": "recruiter",
+      "avatar_url": "",
+      "is_verified": false,
+      "is_onboarded": false,
+      "theme": "dark",
+      "created_at": "2026-08-28T17:27:47.478908+00:00",
+      "updated_at": "2026-08-28T17:27:47.478908+00:00",
+      "status": "active",
+      "auth_provider": "local"
+    },
+    {
+      "_id": "18891e7f-5554-482f-bed9-06f8ee6224b5",
+      "email": "inst_sih_3@iiit.ac.in",
+      "password_hash": "$2b$12$BGzmXPQ0pCudGtLSz.B2GOcdqdvKBDLPH.JtMO7OU4Q2Ajc8MYgIG",
+      "full_name": "IIIT Placement Cell",
+      "role": "institution",
+      "avatar_url": "",
+      "is_verified": false,
+      "is_onboarded": false,
+      "theme": "dark",
+      "created_at": "2026-08-28T17:27:47.926773+00:00",
+      "updated_at": "2026-08-28T17:27:47.926773+00:00",
+      "status": "active",
+      "auth_provider": "local"
+    },
+    {
+      "_id": "91f4d507-2e9d-4e37-855f-e9848cf9957d",
+      "email": "prof_sih_3@iiit.ac.in",
+      "password_hash": "$2b$12$b8KK0WyxNDHFXdsc7FGCnO8VL57rCOzr1pCx6BS2fMBlbotDcEFLi",
+      "full_name": "Dr. Rajesh Kulkarni",
+      "role": "academician",
+      "avatar_url": "",
+      "is_verified": false,
+      "is_onboarded": false,
+      "theme": "dark",
+      "created_at": "2026-08-28T17:27:48.303139+00:00",
+      "updated_at": "2026-08-28T17:27:48.303139+00:00",
+      "status": "active",
+      "auth_provider": "local"
+    },
+    {
+      "_id": "d6414e58-8fe8-42e1-a03b-01a608c8b7b9",
+      "email": "student_sih_5@test.com",
+      "password_hash": "$2b$12$ZVCARELONoNrZKQfSren4OnET0CazS.HBTnGQ9NL20pE3nuaTwmZ.",
+      "full_name": "Aarav Sharma",
+      "role": "student",
+      "avatar_url": "",
+      "is_verified": false,
+      "is_onboarded": true,
+      "theme": "dark",
+      "created_at": "2026-08-28T17:29:12.718561+00:00",
+      "updated_at": "2026-08-28T18:15:09.063694+00:00",
+      "status": "active",
+      "auth_provider": "local"
+    },
+    {
+      "_id": "6ea002e6-ae4a-4c70-9e34-eaa3d9502125",
+      "email": "recruiter_sih_3@techcorp.com",
+      "password_hash": "$2b$12$sHOzZRK3P4UBKO9B9ygxIuWHHWwshWEGvtq5y0vvkYIULcmNOD.1i",
+      "full_name": "Priya Nair",
+      "role": "recruiter",
+      "avatar_url": "",
+      "is_verified": false,
+      "is_onboarded": true,
+      "theme": "dark",
+      "created_at": "2026-08-28T17:29:13.176602+00:00",
+      "updated_at": "2026-08-28T17:29:13.176602+00:00",
+      "status": "active",
+      "auth_provider": "local"
+    },
+    {
+      "_id": "fc860596-aba0-47d4-83ad-35c7c160a53b",
+      "email": "inst_sih_2@iiit.ac.in",
+      "password_hash": "$2b$12$Pjk6Baze3InF1QjBYJmS4ONRqqeRPyQDe9.s7gyOwLeKij1cLlV.m",
+      "full_name": "IIIT Placement Cell",
+      "role": "institution",
+      "avatar_url": "",
+      "is_verified": false,
+      "is_onboarded": true,
+      "theme": "dark",
+      "created_at": "2026-08-28T17:29:13.644507+00:00",
+      "updated_at": "2026-08-28T17:29:13.644507+00:00",
+      "status": "active",
+      "auth_provider": "local"
+    },
+    {
+      "_id": "a6138d7f-a515-4230-a748-39558bf383d5",
+      "email": "prof_sih_5@iiit.ac.in",
+      "password_hash": "$2b$12$8FPIdihTSzv2zgU7G9FrtuhJnhhI4guIZjM6OuRBYQU8laQw9dVw.",
+      "full_name": "Dr. Rajesh Kulkarni",
+      "role": "academician",
+      "avatar_url": "",
+      "is_verified": false,
+      "is_onboarded": true,
+      "theme": "dark",
+      "created_at": "2026-08-28T17:29:14.036053+00:00",
+      "updated_at": "2026-08-28T17:29:14.036053+00:00",
+      "status": "active",
+      "auth_provider": "local"
+    },
+    {
+      "_id": "26a09c9f-beba-4cd6-a521-71b276680746",
+      "email": "kishorerajas0609@gmail.com",
+      "password_hash": "$2b$12$gSv5FyNM17EjeZ/aNhJI9uPnYqGRT/JBcaCAW5dW9JXoKdAZaTehy",
+      "full_name": "Kishore",
+      "role": "student",
+      "avatar_url": "",
+      "is_verified": false,
+      "is_onboarded": true,
+      "theme": "dark",
+      "created_at": "2026-11-11T12:08:42.046067+00:00",
+      "updated_at": "2026-11-11T12:08:42.046067+00:00",
+      "status": "active",
+      "auth_provider": "local"
+    }
+  ],
+  "student_profiles": [
+    {
+      "_id": "a2d03fe8-9846-4f8f-8d33-3888b995ce5d",
+      "user_id": "6c927713-d849-4f6b-b2e8-8954adca6ff5",
+      "full_name": "Aarav Sharma",
+      "email": "student_sih_4@test.com",
+      "academic": {},
+      "skills": [],
+      "projects": [],
+      "experience": [],
+      "certificates": [],
+      "career_target": {},
+      "career_preferences": {},
+      "visibility": {
+        "profile": "public",
+        "recruiter_view": true
+      },
+      "created_at": "2026-08-28T16:58:36.976183+00:00"
+    },
+    {
+      "_id": "39540ce3-b247-48d1-94d1-622ca680194b",
+      "user_id": "1b4f8d8a-3971-4f78-9f7f-5449168cd4f9",
+      "full_name": "Test User",
+      "email": "test_1@example.com",
+      "academic": {},
+      "skills": [],
+      "projects": [],
+      "experience": [],
+      "certificates": [],
+      "career_target": {},
+      "career_preferences": {},
+      "visibility": {
+        "profile": "public",
+        "recruiter_view": true
+      },
+      "created_at": "2026-08-28T16:59:02.100832+00:00"
+    },
+    {
+      "_id": "b83024dd-e11e-46d6-8b7b-8386bdc4f4dd",
+      "user_id": "3c58ef06-5f38-449c-b017-871385a7a82f",
+      "full_name": "Aarav Sharma",
+      "email": "student_sih_9@test.com",
+      "academic": {},
+      "skills": [],
+      "projects": [],
+      "experience": [],
+      "certificates": [],
+      "career_target": {},
+      "career_preferences": {},
+      "visibility": {
+        "profile": "public",
+        "recruiter_view": true
+      },
+      "created_at": "2026-08-28T17:22:41.540365+00:00"
+    },
+    {
+      "_id": "4c42f764-5c96-4fa0-84ca-13291f76d5e5",
+      "user_id": "81206210-e5c9-434f-bc11-9ec62a67b72a",
+      "full_name": "Aarav Sharma",
+      "email": "student_sih_6@test.com",
+      "academic": {},
+      "skills": [],
+      "projects": [],
+      "experience": [],
+      "certificates": [],
+      "career_target": {},
+      "career_preferences": {},
+      "visibility": {
+        "profile": "public",
+        "recruiter_view": true
+      },
+      "created_at": "2026-08-28T17:25:10.370382+00:00"
+    },
+    {
+      "_id": "e7e30bfa-7950-49d7-8567-2b30511038a3",
+      "user_id": "f64eb45d-f8f6-4aad-aac3-b0e6f8bd50f8",
+      "full_name": "Aarav Sharma",
+      "email": "student_sih_3@test.com",
+      "academic": {
+        "institution_name": "Indian Institute of Information Technology",
+        "department": "Computer Science & Engineering",
+        "degree": "B.Tech",
+        "current_year": 3,
+        "graduation_year": 2026,
+        "cgpa": 8.85,
+        "enrollment_number": ""
+      },
+      "skills": [
+        {
+          "id": "d93e05a2-f94d-4c2d-a9d7-53bfac73769b",
+          "name": "React",
+          "proficiency": 80.0,
+          "category": "Frontend",
+          "verified": false,
+          "evidence_status": "self_declared",
+          "added_at": "2026-08-28T17:27:47.058566+00:00"
+        },
+        {
+          "id": "9271b61b-0ead-4a90-90a0-1c39bd33fc56",
+          "name": "TypeScript",
+          "proficiency": 75.0,
+          "category": "Programming",
+          "verified": false,
+          "evidence_status": "self_declared",
+          "added_at": "2026-08-28T17:27:47.058566+00:00"
+        },
+        {
+          "id": "f5e4d971-54fd-41f1-8a67-95150afc0972",
+          "name": "Python",
+          "category": "Backend",
+          "proficiency": 85.0,
+          "verified": false,
+          "evidence_status": "evidence_submitted",
+          "evidence_url": "https://github.com/aarav/fastapi-distributed-backend",
+          "evidence_type": "GitHub Repository",
+          "added_at": "2026-08-28T17:27:47.079520+00:00"
+        }
+      ],
+      "projects": [],
+      "experience": [],
+      "certificates": [],
+      "career_target": {
+        "dream_role": "Full Stack Developer",
+        "updated_at": "2026-08-28T17:27:47.058566+00:00"
+      },
+      "career_preferences": {
+        "dream_role": "Full Stack Developer",
+        "work_mode_preference": "any",
+        "preferred_locations": []
+      },
+      "visibility": {
+        "profile": "public",
+        "recruiter_view": true
+      },
+      "created_at": "2026-08-28T17:27:47.035882+00:00",
+      "phone": "",
+      "bio": "",
+      "location": "",
+      "linkedin_url": "",
+      "github_url": "",
+      "portfolio_url": "",
+      "is_completed": true,
+      "updated_at": "2026-08-28T17:27:47.096752+00:00"
+    },
+    {
+      "_id": "dd12fff4-80ef-48bf-9624-41be47de65ef",
+      "user_id": "d6414e58-8fe8-42e1-a03b-01a608c8b7b9",
+      "full_name": "Aarav Sharma",
+      "email": "student_sih_5@test.com",
+      "academic": {
+        "institution_name": "Indian Institute of Information Technology",
+        "department": "Computer Science & Engineering",
+        "degree": "B.Tech",
+        "current_year": 3,
+        "graduation_year": 2026,
+        "cgpa": 8.85,
+        "enrollment_number": ""
+      },
+      "skills": [
+        {
+          "id": "89e72bc5-dd0c-4c7f-9762-e434ddd3a1ff",
+          "name": "React",
+          "proficiency": 80.0,
+          "category": "Frontend",
+          "verified": false,
+          "evidence_status": "self_declared",
+          "added_at": "2026-08-28T17:29:12.738277+00:00"
+        },
+        {
+          "id": "f4ec7863-2ead-4f43-94fc-767ecdbd0c5e",
+          "name": "TypeScript",
+          "proficiency": 75.0,
+          "category": "Programming",
+          "verified": false,
+          "evidence_status": "self_declared",
+          "added_at": "2026-08-28T17:29:12.738277+00:00"
+        },
+        {
+          "id": "066502a7-778a-40a2-a80a-ccdaf189dd8e",
+          "name": "Python",
+          "category": "Backend",
+          "proficiency": 85.0,
+          "verified": false,
+          "evidence_status": "evidence_submitted",
+          "evidence_url": "https://github.com/aarav/fastapi-distributed-backend",
+          "evidence_type": "GitHub Repository",
+          "added_at": "2026-08-28T17:29:12.764053+00:00"
+        }
+      ],
+      "projects": [],
+      "experience": [],
+      "certificates": [],
+      "career_target": {
+        "dream_role": "Full Stack Developer",
+        "updated_at": "2026-08-28T17:29:12.738277+00:00"
+      },
+      "career_preferences": {
+        "dream_role": "Full Stack Developer",
+        "work_mode_preference": "any",
+        "preferred_locations": []
+      },
+      "visibility": {
+        "profile": "public",
+        "recruiter_view": true
+      },
+      "created_at": "2026-08-28T17:29:12.718561+00:00",
+      "phone": "",
+      "bio": "",
+      "location": "",
+      "linkedin_url": "",
+      "github_url": "",
+      "portfolio_url": "",
+      "is_completed": true,
+      "updated_at": "2026-08-28T17:29:12.786620+00:00"
+    },
+    {
+      "_id": "105fc0d8-7de8-4112-9479-98d53d230480",
+      "user_id": "26a09c9f-beba-4cd6-a521-71b276680746",
+      "full_name": "Kishore",
+      "email": "kishorerajas0609@gmail.com",
+      "academic": {
+        "institution_name": "iit",
+        "department": "Computer Science & Engineering",
+        "degree": "B.Tech",
+        "current_year": 3,
+        "graduation_year": 2026,
+        "cgpa": 8.5,
+        "enrollment_number": ""
+      },
+      "skills": [
+        {
+          "id": "c8393961-bfab-4f83-bed7-de6a99d388eb",
+          "name": "Python",
+          "proficiency": 80.0,
+          "category": "Technical",
+          "verified": false,
+          "evidence_status": "self_declared",
+          "added_at": "2026-11-11T12:08:59.371036+00:00"
+        },
+        {
+          "id": "8580a90f-d802-4594-8dca-9cdd2e3ed329",
+          "name": "React",
+          "proficiency": 75.0,
+          "category": "Technical",
+          "verified": false,
+          "evidence_status": "self_declared",
+          "added_at": "2026-11-11T12:08:59.371036+00:00"
+        },
+        {
+          "id": "65076397-fd95-46bb-80e9-8c3706c88fb1",
+          "name": "JavaScript",
+          "proficiency": 85.0,
+          "category": "Technical",
+          "verified": false,
+          "evidence_status": "self_declared",
+          "added_at": "2026-11-11T12:08:59.371036+00:00"
+        }
+      ],
+      "projects": [],
+      "experience": [],
+      "certificates": [],
+      "career_target": {
+        "dream_role": "Full Stack Developer",
+        "updated_at": "2026-11-11T12:08:59.371036+00:00"
+      },
+      "career_preferences": {
+        "dream_role": "Full Stack Developer",
+        "work_mode_preference": "any",
+        "preferred_locations": [
+          "Bengaluru",
+          "Hyderabad",
+          "Remote"
+        ]
+      },
+      "visibility": {
+        "profile": "public",
+        "recruiter_view": true
+      },
+      "created_at": "2026-11-11T12:08:42.046067+00:00",
+      "phone": "",
+      "bio": "",
+      "location": "",
+      "linkedin_url": "",
+      "github_url": "",
+      "portfolio_url": "",
+      "is_completed": true,
+      "updated_at": "2026-11-11T12:08:59.371036+00:00"
+    }
+  ],
+  "audit_logs": [
+    {
+      "user_id": "81206210-e5c9-434f-bc11-9ec62a67b72a",
+      "action": "USER_REGISTERED",
+      "role": "student",
+      "timestamp": "2026-08-28T17:25:10.370382+00:00",
+      "_id": "cf60a8f8-e535-42f0-9da4-dff753ea8187"
+    },
+    {
+      "user_id": "f64eb45d-f8f6-4aad-aac3-b0e6f8bd50f8",
+      "action": "USER_REGISTERED",
+      "role": "student",
+      "timestamp": "2026-08-28T17:27:47.035882+00:00",
+      "_id": "d586235a-9ecc-492c-8927-2d4ff0a98430"
+    },
+    {
+      "user_id": "6159e9fa-2bc0-4c91-9cb8-ae53555db510",
+      "action": "USER_REGISTERED",
+      "role": "recruiter",
+      "timestamp": "2026-08-28T17:27:47.478908+00:00",
+      "_id": "09dcb455-2216-4ed6-bc7e-c510a4aaf6d6"
+    },
+    {
+      "user_id": "18891e7f-5554-482f-bed9-06f8ee6224b5",
+      "action": "USER_REGISTERED",
+      "role": "institution",
+      "timestamp": "2026-08-28T17:27:47.926773+00:00",
+      "_id": "ca86e7a7-a9c7-4727-bec5-6b7751611573"
+    },
+    {
+      "user_id": "91f4d507-2e9d-4e37-855f-e9848cf9957d",
+      "action": "USER_REGISTERED",
+      "role": "academician",
+      "timestamp": "2026-08-28T17:27:48.303139+00:00",
+      "_id": "ebeeb987-ef44-4f89-aab2-8c89c5a269e4"
+    },
+    {
+      "user_id": "d6414e58-8fe8-42e1-a03b-01a608c8b7b9",
+      "action": "USER_REGISTERED",
+      "role": "student",
+      "timestamp": "2026-08-28T17:29:12.718561+00:00",
+      "_id": "59d8e8da-7c99-4ed6-b277-0d5595118ff4"
+    },
+    {
+      "user_id": "6ea002e6-ae4a-4c70-9e34-eaa3d9502125",
+      "action": "USER_REGISTERED",
+      "role": "recruiter",
+      "timestamp": "2026-08-28T17:29:13.176602+00:00",
+      "_id": "2b99b3df-6b9f-44e1-9486-1e3097e16326"
+    },
+    {
+      "user_id": "fc860596-aba0-47d4-83ad-35c7c160a53b",
+      "action": "USER_REGISTERED",
+      "role": "institution",
+      "timestamp": "2026-08-28T17:29:13.644507+00:00",
+      "_id": "98a49f3f-06b0-4dc6-bfe5-913541746a07"
+    },
+    {
+      "user_id": "a6138d7f-a515-4230-a748-39558bf383d5",
+      "action": "USER_REGISTERED",
+      "role": "academician",
+      "timestamp": "2026-08-28T17:29:14.036053+00:00",
+      "_id": "2d5b4d7e-2f88-4638-926a-eb148cc21745"
+    },
+    {
+      "user_id": "26a09c9f-beba-4cd6-a521-71b276680746",
+      "action": "USER_REGISTERED",
+      "role": "student",
+      "timestamp": "2026-11-11T12:08:42.046067+00:00",
+      "_id": "cf56b310-8ad9-47c7-9edb-2104f850acd9"
+    }
+  ],
+  "assessment_attempts": [
+    {
+      "_id": "ea0a0c24-024b-444f-b4f6-3f21fe948331",
+      "user_id": "f64eb45d-f8f6-4aad-aac3-b0e6f8bd50f8",
+      "category": "Python",
+      "score_percentage": 40.0,
+      "correct_answers": 2,
+      "total_questions": 5,
+      "passed": false,
+      "strengths": [
+        "Dictionaries & Hashing",
+        "List Comprehensions"
+      ],
+      "weaknesses": [
+        "Concurrency & Memory",
+        "OOP & Class Methods",
+        "Asynchronous Programming"
+      ],
+      "completed_at": "2026-08-28T17:27:47.096752+00:00"
+    },
+    {
+      "_id": "2fb7edaa-b7e7-4d6a-9188-92feae1db909",
+      "user_id": "d6414e58-8fe8-42e1-a03b-01a608c8b7b9",
+      "category": "Python",
+      "score_percentage": 40.0,
+      "correct_answers": 2,
+      "total_questions": 5,
+      "passed": false,
+      "strengths": [
+        "Dictionaries & Hashing",
+        "List Comprehensions"
+      ],
+      "weaknesses": [
+        "OOP & Class Methods",
+        "Concurrency & Memory",
+        "Asynchronous Programming"
+      ],
+      "completed_at": "2026-08-28T17:29:12.786620+00:00"
+    }
+  ],
+  "notifications": [
+    {
+      "user_id": "f64eb45d-f8f6-4aad-aac3-b0e6f8bd50f8",
+      "title": "Assessment Completed: Python",
+      "message": "You scored 40.0% on the Python assessment. Keep practicing to earn verification.",
+      "type": "assessment",
+      "action_url": "/student/skill-passport",
+      "read": false,
+      "created_at": "2026-08-28T17:27:47.096752+00:00",
+      "_id": "5ff80c13-0b85-4e54-99da-22f4d5ce6f3e"
+    },
+    {
+      "user_id": "6159e9fa-2bc0-4c91-9cb8-ae53555db510",
+      "title": "New Application: Full Stack Software Engineer Intern",
+      "message": "Aarav Sharma applied with a 84.6% match score.",
+      "type": "application",
+      "action_url": "/recruiter/applications",
+      "read": false,
+      "created_at": "2026-08-28T17:27:47.530901+00:00",
+      "_id": "f7eb1401-6d4f-4e01-bac1-5a9f41271044"
+    },
+    {
+      "user_id": "f64eb45d-f8f6-4aad-aac3-b0e6f8bd50f8",
+      "title": "Application Status: Interview",
+      "message": "Your application for 'Full Stack Software Engineer Intern' at Nexus Dynamics Inc. is now 'Interview'.",
+      "type": "status_change",
+      "action_url": "/student/applications",
+      "read": false,
+      "created_at": "2026-08-28T17:27:47.557226+00:00",
+      "_id": "eb004363-5dad-46ed-a008-41336447c899"
+    },
+    {
+      "user_id": "d6414e58-8fe8-42e1-a03b-01a608c8b7b9",
+      "title": "Assessment Completed: Python",
+      "message": "You scored 40.0% on the Python assessment. Keep practicing to earn verification.",
+      "type": "assessment",
+      "action_url": "/student/skill-passport",
+      "read": false,
+      "created_at": "2026-08-28T17:29:12.786620+00:00",
+      "_id": "c87e3e19-5baf-4df1-b2b2-bca20cdff074"
+    },
+    {
+      "user_id": "6ea002e6-ae4a-4c70-9e34-eaa3d9502125",
+      "title": "New Application: Full Stack Software Engineer Intern",
+      "message": "Aarav Sharma applied with a 84.6% match score.",
+      "type": "application",
+      "action_url": "/recruiter/applications",
+      "read": false,
+      "created_at": "2026-08-28T17:29:13.235468+00:00",
+      "_id": "1795cfa1-09c8-4876-9c9d-641be632d1cf"
+    },
+    {
+      "user_id": "d6414e58-8fe8-42e1-a03b-01a608c8b7b9",
+      "title": "Application Status: Interview",
+      "message": "Your application for 'Full Stack Software Engineer Intern' at Nexus Dynamics Inc. is now 'Interview'.",
+      "type": "status_change",
+      "action_url": "/student/applications",
+      "read": false,
+      "created_at": "2026-08-28T17:29:13.265479+00:00",
+      "_id": "977bee60-3c2f-444a-9f8e-04a239ac12d3"
+    }
+  ],
+  "roadmaps": [
+    {
+      "_id": "d603ef50-0b47-424a-b0b6-40be03bd768b",
+      "user_id": "f64eb45d-f8f6-4aad-aac3-b0e6f8bd50f8",
+      "target_role": "Full Stack Developer",
+      "readiness_at_generation": 24.4,
+      "explanation": "### Career Readiness Analysis for Full Stack Developer\n\n**Current Standing**: You have achieved a baseline readiness of **24.4%**. Your foundation provides a great springboard, but targeting specific industry-standard proficiencies will significantly boost your recruiter match rate.\n\n**Key Gaps to Target**:\n- **Critical Missing Skills**: JavaScript, Node.js, SQL & Databases\n- **Skills to Strengthen**: Core advanced topics\n\n**Recommended Next Steps**:\n1. Take verified SkillOrbit assessments in JavaScript to add proof to your Skill Passport.\n2. Build a full-stack end-to-end portfolio project demonstrating these technologies in production.\n3. Apply to entry-level internships with matching scores above 75%.",
+      "phases": [
+        {
+          "phase": 1,
+          "title": "Foundational Mastery: JavaScript",
+          "timeline": "Weeks 1-3",
+          "description": "Master core syntax, design patterns, and fundamental concepts of JavaScript.",
+          "skills_to_learn": [
+            "JavaScript",
+            "Problem Solving"
+          ],
+          "action_items": [
+            {
+              "title": "Complete hands-on tutorials and exercises in JavaScript",
+              "type": "course"
+            },
+            {
+              "title": "Take SkillOrbit JavaScript Verified Assessment",
+              "type": "assessment"
+            }
+          ],
+          "deliverable": "Verified badge in JavaScript on your Skill Passport"
+        },
+        {
+          "phase": 2,
+          "title": "Intermediate Applications: Node.js",
+          "timeline": "Weeks 4-6",
+          "description": "Integrate Node.js with real-world schemas, APIs, and business logic.",
+          "skills_to_learn": [
+            "Node.js",
+            "RESTful Architecture"
+          ],
+          "action_items": [
+            {
+              "title": "Build a data-driven prototype using JavaScript and Node.js",
+              "type": "project"
+            },
+            {
+              "title": "Submit project link for peer & mentor verification",
+              "type": "assessment"
+            }
+          ],
+          "deliverable": "Working GitHub repository with clean documentation"
+        },
+        {
+          "phase": 3,
+          "title": "Production Readiness & Cloud: SQL & Databases",
+          "timeline": "Weeks 7-9",
+          "description": "Implement CI/CD, containerization, and cloud deployment for SQL & Databases.",
+          "skills_to_learn": [
+            "SQL & Databases",
+            "Docker",
+            "Testing"
+          ],
+          "action_items": [
+            {
+              "title": "Deploy project to cloud platform with automated pipeline",
+              "type": "project"
+            },
+            {
+              "title": "Implement unit and integration tests",
+              "type": "course"
+            }
+          ],
+          "deliverable": "Live hosted web application link in your portfolio"
+        },
+        {
+          "phase": 4,
+          "title": "Career Target Polish: Full Stack Developer",
+          "timeline": "Weeks 10-12",
+          "description": "Prepare for hiring cycles with mock interviews and resume optimization for Full Stack Developer.",
+          "skills_to_learn": [
+            "REST APIs",
+            "System Design",
+            "Behavioral"
+          ],
+          "action_items": [
+            {
+              "title": "Conduct AI Mock Technical Interview on SkillOrbit",
+              "type": "assessment"
+            },
+            {
+              "title": "Apply to curated high-match internships & jobs",
+              "type": "project"
+            }
+          ],
+          "deliverable": "Complete placement readiness score > 85%"
+        }
+      ],
+      "progress_state": {},
+      "created_at": "2026-08-28T17:27:47.116946+00:00",
+      "updated_at": "2026-08-28T17:27:47.116946+00:00"
+    },
+    {
+      "_id": "b555d355-2ab2-499a-a829-a54f9d4fd505",
+      "user_id": "d6414e58-8fe8-42e1-a03b-01a608c8b7b9",
+      "target_role": "Full Stack Developer",
+      "readiness_at_generation": 24.4,
+      "explanation": "### Career Readiness Analysis for Full Stack Developer\n\n**Current Standing**: You have achieved a baseline readiness of **24.4%**. Your foundation provides a great springboard, but targeting specific industry-standard proficiencies will significantly boost your recruiter match rate.\n\n**Key Gaps to Target**:\n- **Critical Missing Skills**: JavaScript, Node.js, SQL & Databases\n- **Skills to Strengthen**: Core advanced topics\n\n**Recommended Next Steps**:\n1. Take verified SkillOrbit assessments in JavaScript to add proof to your Skill Passport.\n2. Build a full-stack end-to-end portfolio project demonstrating these technologies in production.\n3. Apply to entry-level internships with matching scores above 75%.",
+      "phases": [
+        {
+          "phase": 1,
+          "title": "Foundational Mastery: JavaScript",
+          "timeline": "Weeks 1-3",
+          "description": "Master core syntax, design patterns, and fundamental concepts of JavaScript.",
+          "skills_to_learn": [
+            "JavaScript",
+            "Problem Solving"
+          ],
+          "action_items": [
+            {
+              "title": "Complete hands-on tutorials and exercises in JavaScript",
+              "type": "course"
+            },
+            {
+              "title": "Take SkillOrbit JavaScript Verified Assessment",
+              "type": "assessment"
+            }
+          ],
+          "deliverable": "Verified badge in JavaScript on your Skill Passport"
+        },
+        {
+          "phase": 2,
+          "title": "Intermediate Applications: Node.js",
+          "timeline": "Weeks 4-6",
+          "description": "Integrate Node.js with real-world schemas, APIs, and business logic.",
+          "skills_to_learn": [
+            "Node.js",
+            "RESTful Architecture"
+          ],
+          "action_items": [
+            {
+              "title": "Build a data-driven prototype using JavaScript and Node.js",
+              "type": "project"
+            },
+            {
+              "title": "Submit project link for peer & mentor verification",
+              "type": "assessment"
+            }
+          ],
+          "deliverable": "Working GitHub repository with clean documentation"
+        },
+        {
+          "phase": 3,
+          "title": "Production Readiness & Cloud: SQL & Databases",
+          "timeline": "Weeks 7-9",
+          "description": "Implement CI/CD, containerization, and cloud deployment for SQL & Databases.",
+          "skills_to_learn": [
+            "SQL & Databases",
+            "Docker",
+            "Testing"
+          ],
+          "action_items": [
+            {
+              "title": "Deploy project to cloud platform with automated pipeline",
+              "type": "project"
+            },
+            {
+              "title": "Implement unit and integration tests",
+              "type": "course"
+            }
+          ],
+          "deliverable": "Live hosted web application link in your portfolio"
+        },
+        {
+          "phase": 4,
+          "title": "Career Target Polish: Full Stack Developer",
+          "timeline": "Weeks 10-12",
+          "description": "Prepare for hiring cycles with mock interviews and resume optimization for Full Stack Developer.",
+          "skills_to_learn": [
+            "REST APIs",
+            "System Design",
+            "Behavioral"
+          ],
+          "action_items": [
+            {
+              "title": "Conduct AI Mock Technical Interview on SkillOrbit",
+              "type": "assessment"
+            },
+            {
+              "title": "Apply to curated high-match internships & jobs",
+              "type": "project"
+            }
+          ],
+          "deliverable": "Complete placement readiness score > 85%"
+        }
+      ],
+      "progress_state": {},
+      "created_at": "2026-08-28T17:29:12.813720+00:00",
+      "updated_at": "2026-08-28T17:29:12.813720+00:00"
+    },
+    {
+      "_id": "1ebae481-24f4-4f05-a40c-5ddde3843b98",
+      "user_id": "26a09c9f-beba-4cd6-a521-71b276680746",
+      "target_role": "Full Stack Developer",
+      "readiness_at_generation": 37.4,
+      "explanation": "### Career Readiness Analysis for Full Stack Developer\n\n**Current Standing**: You have achieved a baseline readiness of **37.4%**. Your foundation provides a great springboard, but targeting specific industry-standard proficiencies will significantly boost your recruiter match rate.\n\n**Key Gaps to Target**:\n- **Critical Missing Skills**: Node.js, SQL & Databases, REST APIs\n- **Skills to Strengthen**: React\n\n**Recommended Next Steps**:\n1. Take verified SkillOrbit assessments in Node.js to add proof to your Skill Passport.\n2. Build a full-stack end-to-end portfolio project demonstrating these technologies in production.\n3. Apply to entry-level internships with matching scores above 75%.",
+      "phases": [
+        {
+          "phase": 1,
+          "title": "Foundational Mastery: React",
+          "timeline": "Weeks 1-3",
+          "description": "Master core syntax, design patterns, and fundamental concepts of React.",
+          "skills_to_learn": [
+            "React",
+            "Problem Solving"
+          ],
+          "action_items": [
+            {
+              "title": "Complete hands-on tutorials and exercises in React",
+              "type": "course"
+            },
+            {
+              "title": "Take SkillOrbit React Verified Assessment",
+              "type": "assessment"
+            }
+          ],
+          "deliverable": "Verified badge in React on your Skill Passport"
+        },
+        {
+          "phase": 2,
+          "title": "Intermediate Applications: Node.js",
+          "timeline": "Weeks 4-6",
+          "description": "Integrate Node.js with real-world schemas, APIs, and business logic.",
+          "skills_to_learn": [
+            "Node.js",
+            "RESTful Architecture"
+          ],
+          "action_items": [
+            {
+              "title": "Build a data-driven prototype using React and Node.js",
+              "type": "project"
+            },
+            {
+              "title": "Submit project link for peer & mentor verification",
+              "type": "assessment"
+            }
+          ],
+          "deliverable": "Working GitHub repository with clean documentation"
+        },
+        {
+          "phase": 3,
+          "title": "Production Readiness & Cloud: SQL & Databases",
+          "timeline": "Weeks 7-9",
+          "description": "Implement CI/CD, containerization, and cloud deployment for SQL & Databases.",
+          "skills_to_learn": [
+            "SQL & Databases",
+            "Docker",
+            "Testing"
+          ],
+          "action_items": [
+            {
+              "title": "Deploy project to cloud platform with automated pipeline",
+              "type": "project"
+            },
+            {
+              "title": "Implement unit and integration tests",
+              "type": "course"
+            }
+          ],
+          "deliverable": "Live hosted web application link in your portfolio"
+        },
+        {
+          "phase": 4,
+          "title": "Career Target Polish: Full Stack Developer",
+          "timeline": "Weeks 10-12",
+          "description": "Prepare for hiring cycles with mock interviews and resume optimization for Full Stack Developer.",
+          "skills_to_learn": [
+            "REST APIs",
+            "System Design",
+            "Behavioral"
+          ],
+          "action_items": [
+            {
+              "title": "Conduct AI Mock Technical Interview on SkillOrbit",
+              "type": "assessment"
+            },
+            {
+              "title": "Apply to curated high-match internships & jobs",
+              "type": "project"
+            }
+          ],
+          "deliverable": "Complete placement readiness score > 85%"
+        }
+      ],
+      "progress_state": {},
+      "created_at": "2026-11-11T12:09:21.250639+00:00",
+      "updated_at": "2026-11-11T12:09:21.250639+00:00"
+    }
+  ],
+  "recruiter_profiles": [
+    {
+      "_id": "e5ddd7f6-d2e2-44be-8285-c5f6fc03f7bc",
+      "user_id": "6159e9fa-2bc0-4c91-9cb8-ae53555db510",
+      "full_name": "Priya Nair",
+      "email": "recruiter_sih_2@techcorp.com",
+      "company_name": "",
+      "verification_status": "unverified",
+      "hiring_preferences": {},
+      "created_at": "2026-08-28T17:27:47.478908+00:00"
+    },
+    {
+      "_id": "9d9c4de9-91ce-4317-bc6b-6c9cfbec3e95",
+      "user_id": "6ea002e6-ae4a-4c70-9e34-eaa3d9502125",
+      "full_name": "Priya Nair",
+      "email": "recruiter_sih_3@techcorp.com",
+      "company_name": "Nexus Dynamics Inc.",
+      "verification_status": "pending_verification",
+      "hiring_preferences": {},
+      "created_at": "2026-08-28T17:29:13.176602+00:00",
+      "company_website": "https://nexusdynamics.io",
+      "company_logo_url": "",
+      "industry": "Enterprise Cloud & AI Solutions",
+      "company_size": "250-500",
+      "headquarters": "Bengaluru, India",
+      "cin_or_reg_number": "",
+      "description": "Building next-generation distributed enterprise cloud platforms.",
+      "position_title": "Lead University Talent Partner",
+      "department": "HR / Engineering",
+      "hiring_roles": [],
+      "preferred_streams": [],
+      "is_completed": true,
+      "updated_at": "2026-08-28T17:29:13.195804+00:00"
+    }
+  ],
+  "opportunities": [
+    {
+      "_id": "1ae99218-ed74-47a3-bd8c-fb9b717c152f",
+      "creator_id": "6159e9fa-2bc0-4c91-9cb8-ae53555db510",
+      "title": "Full Stack Software Engineer Intern",
+      "type": "internship",
+      "company_name": "Nexus Dynamics Inc.",
+      "company_logo_url": "",
+      "description": "Work with modern React, TypeScript, Python, and cloud infrastructure.",
+      "responsibilities": [
+        "Develop high-performance UI components in React.",
+        "Build scalable REST and GraphQL microservices."
+      ],
+      "required_skills": [
+        {
+          "name": "React",
+          "min_proficiency": 70
+        },
+        {
+          "name": "Python",
+          "min_proficiency": 70
+        }
+      ],
+      "preferred_skills": [],
+      "eligible_departments": [
+        "Computer Science & Engineering",
+        "Information Technology"
+      ],
+      "eligible_degrees": [
+        "B.Tech",
+        "M.Tech",
+        "MCA"
+      ],
+      "eligible_graduation_years": [
+        2025,
+        2026,
+        2027
+      ],
+      "min_cgpa": 7.5,
+      "openings": 4,
+      "location": "Bengaluru, India",
+      "work_mode": "hybrid",
+      "duration_months": 6,
+      "stipend_or_salary": "\u20b945,000 / month",
+      "application_deadline": "2026-11-30",
+      "joining_date": "",
+      "selection_stages": [
+        "Resume & Skill Passport Screen",
+        "Coding Assessment",
+        "Technical Interview",
+        "Offer"
+      ],
+      "benefits": [],
+      "status": "active",
+      "applicants_count": 1,
+      "created_at": "2026-08-28T17:27:47.510745+00:00",
+      "updated_at": "2026-08-28T17:27:47.510745+00:00"
+    },
+    {
+      "_id": "611eb1a4-cfa3-4f9e-bb66-2202011359b4",
+      "creator_id": "6ea002e6-ae4a-4c70-9e34-eaa3d9502125",
+      "title": "Full Stack Software Engineer Intern",
+      "type": "internship",
+      "company_name": "Nexus Dynamics Inc.",
+      "company_logo_url": "",
+      "description": "Work with modern React, TypeScript, Python, and cloud infrastructure.",
+      "responsibilities": [
+        "Develop high-performance UI components in React.",
+        "Build scalable REST and GraphQL microservices."
+      ],
+      "required_skills": [
+        {
+          "name": "React",
+          "min_proficiency": 70
+        },
+        {
+          "name": "Python",
+          "min_proficiency": 70
+        }
+      ],
+      "preferred_skills": [],
+      "eligible_departments": [
+        "Computer Science & Engineering",
+        "Information Technology"
+      ],
+      "eligible_degrees": [
+        "B.Tech",
+        "M.Tech",
+        "MCA"
+      ],
+      "eligible_graduation_years": [
+        2025,
+        2026,
+        2027
+      ],
+      "min_cgpa": 7.5,
+      "openings": 4,
+      "location": "Bengaluru, India",
+      "work_mode": "hybrid",
+      "duration_months": 6,
+      "stipend_or_salary": "\u20b945,000 / month",
+      "application_deadline": "2026-11-30",
+      "joining_date": "",
+      "selection_stages": [
+        "Resume & Skill Passport Screen",
+        "Coding Assessment",
+        "Technical Interview",
+        "Offer"
+      ],
+      "benefits": [],
+      "status": "active",
+      "applicants_count": 1,
+      "created_at": "2026-08-28T17:29:13.215897+00:00",
+      "updated_at": "2026-08-28T17:29:13.215897+00:00"
+    }
+  ],
+  "applications": [
+    {
+      "_id": "2d7b4d87-5289-40d4-a25f-f17c1fd5b7b3",
+      "opportunity_id": "1ae99218-ed74-47a3-bd8c-fb9b717c152f",
+      "opportunity_title": "Full Stack Software Engineer Intern",
+      "company_name": "Nexus Dynamics Inc.",
+      "company_logo_url": "",
+      "opportunity_type": "internship",
+      "recruiter_id": "6159e9fa-2bc0-4c91-9cb8-ae53555db510",
+      "applicant_id": "f64eb45d-f8f6-4aad-aac3-b0e6f8bd50f8",
+      "applicant_name": "Aarav Sharma",
+      "applicant_email": "student_sih_3@test.com",
+      "applicant_avatar": "",
+      "cover_note": "Excited to contribute to Nexus Dynamics with my verified Python & React skills.",
+      "resume_url": "",
+      "match_score_at_apply": 84.6,
+      "match_breakdown": {
+        "overall_match": 84.6,
+        "breakdown": {
+          "skills_score": 82.5,
+          "eligibility_score": 100.0,
+          "preference_score": 100.0,
+          "experience_score": 50.0
+        },
+        "matching_skills": [
+          {
+            "skill": "React",
+            "required_level": 70.0,
+            "student_level": 80.0,
+            "verified": false,
+            "status": "Adequate"
+          },
+          {
+            "skill": "Python",
+            "required_level": 70.0,
+            "student_level": 85.0,
+            "verified": false,
+            "status": "Strong"
+          }
+        ],
+        "weak_skills": [],
+        "missing_skills": [],
+        "eligibility_notes": [
+          "CGPA 8.85 meets requirement of 7.5",
+          "Department 'Computer Science & Engineering' matches criteria",
+          "Graduation cohort 2026 matches"
+        ]
+      },
+      "status": "Interview",
+      "timeline": [
+        {
+          "status": "Applied",
+          "timestamp": "2026-08-28T17:27:47.530901+00:00",
+          "note": "Application submitted by candidate"
+        },
+        {
+          "status": "Interview",
+          "timestamp": "2026-08-28T17:27:47.557226+00:00",
+          "note": "Strong Skill Passport and verified assessment scores. Scheduled for Technical Round 1."
+        }
+      ],
+      "applied_at": "2026-08-28T17:27:47.530901+00:00",
+      "updated_at": "2026-08-28T17:27:47.557226+00:00"
+    },
+    {
+      "_id": "4a1b74ff-3564-468c-95c6-9ada5fcae703",
+      "opportunity_id": "611eb1a4-cfa3-4f9e-bb66-2202011359b4",
+      "opportunity_title": "Full Stack Software Engineer Intern",
+      "company_name": "Nexus Dynamics Inc.",
+      "company_logo_url": "",
+      "opportunity_type": "internship",
+      "recruiter_id": "6ea002e6-ae4a-4c70-9e34-eaa3d9502125",
+      "applicant_id": "d6414e58-8fe8-42e1-a03b-01a608c8b7b9",
+      "applicant_name": "Aarav Sharma",
+      "applicant_email": "student_sih_5@test.com",
+      "applicant_avatar": "",
+      "cover_note": "Excited to contribute to Nexus Dynamics with my verified Python & React skills.",
+      "resume_url": "",
+      "match_score_at_apply": 84.6,
+      "match_breakdown": {
+        "overall_match": 84.6,
+        "breakdown": {
+          "skills_score": 82.5,
+          "eligibility_score": 100.0,
+          "preference_score": 100.0,
+          "experience_score": 50.0
+        },
+        "matching_skills": [
+          {
+            "skill": "React",
+            "required_level": 70.0,
+            "student_level": 80.0,
+            "verified": false,
+            "status": "Adequate"
+          },
+          {
+            "skill": "Python",
+            "required_level": 70.0,
+            "student_level": 85.0,
+            "verified": false,
+            "status": "Strong"
+          }
+        ],
+        "weak_skills": [],
+        "missing_skills": [],
+        "eligibility_notes": [
+          "CGPA 8.85 meets requirement of 7.5",
+          "Department 'Computer Science & Engineering' matches criteria",
+          "Graduation cohort 2026 matches"
+        ]
+      },
+      "status": "Interview",
+      "timeline": [
+        {
+          "status": "Applied",
+          "timestamp": "2026-08-28T17:29:13.235468+00:00",
+          "note": "Application submitted by candidate"
+        },
+        {
+          "status": "Interview",
+          "timestamp": "2026-08-28T17:29:13.265479+00:00",
+          "note": "Strong Skill Passport and verified assessment scores. Scheduled for Technical Round 1."
+        }
+      ],
+      "applied_at": "2026-08-28T17:29:13.235468+00:00",
+      "updated_at": "2026-08-28T17:29:13.265479+00:00"
+    }
+  ],
+  "institution_profiles": [
+    {
+      "_id": "5098130e-4af3-4f7e-9c3b-a6dbc341c607",
+      "user_id": "18891e7f-5554-482f-bed9-06f8ee6224b5",
+      "institution_name": "IIIT Placement Cell",
+      "contact_email": "inst_sih_3@iiit.ac.in",
+      "departments": [],
+      "created_at": "2026-08-28T17:27:47.926773+00:00"
+    },
+    {
+      "_id": "6f0b17f6-20ea-4b75-8a80-45b97b4e94a5",
+      "user_id": "fc860596-aba0-47d4-83ad-35c7c160a53b",
+      "institution_name": "Indian Institute of Information Technology",
+      "contact_email": "inst_sih_2@iiit.ac.in",
+      "departments": [
+        "Computer Science",
+        "Information Technology",
+        "Electronics",
+        "Mechanical",
+        "Civil"
+      ],
+      "created_at": "2026-08-28T17:29:13.644507+00:00",
+      "aishe_code": "U-01234",
+      "university_affiliation": "",
+      "institution_type": "Autonomous State University",
+      "website": "",
+      "logo_url": "",
+      "address": "",
+      "city": "",
+      "state": "",
+      "placement_officer_name": "",
+      "placement_officer_email": "",
+      "placement_officer_phone": "",
+      "degrees_offered": [
+        "B.Tech",
+        "M.Tech",
+        "MCA",
+        "B.Sc",
+        "MBA"
+      ],
+      "is_completed": true,
+      "updated_at": "2026-08-28T17:29:13.667314+00:00"
+    }
+  ],
+  "academician_profiles": [
+    {
+      "_id": "23787880-d68b-49a0-8e58-5834a61bbbd3",
+      "user_id": "91f4d507-2e9d-4e37-855f-e9848cf9957d",
+      "full_name": "Dr. Rajesh Kulkarni",
+      "email": "prof_sih_3@iiit.ac.in",
+      "department": "",
+      "designation": "",
+      "publications": [],
+      "created_at": "2026-08-28T17:27:48.303139+00:00"
+    },
+    {
+      "_id": "8187b062-57b3-4c80-b018-5feed7208177",
+      "user_id": "a6138d7f-a515-4230-a748-39558bf383d5",
+      "full_name": "Dr. Rajesh Kulkarni",
+      "email": "prof_sih_5@iiit.ac.in",
+      "department": "Computer Science & Engineering",
+      "designation": "Professor & Head of AI Research",
+      "publications": [],
+      "created_at": "2026-08-28T17:29:14.036053+00:00",
+      "institution_name": "Indian Institute of Information Technology",
+      "qualifications": "",
+      "research_interests": [],
+      "courses_taught": [],
+      "industry_experience_years": 0,
+      "mentorship_available": true,
+      "bio": "",
+      "is_completed": true,
+      "updated_at": "2026-08-28T17:29:14.059289+00:00"
+    }
+  ],
+  "faculty_programs": [
+    {
+      "_id": "667ba7ab-bca1-4e32-8978-64351b6f4c56",
+      "creator_id": "91f4d507-2e9d-4e37-855f-e9848cf9957d",
+      "creator_role": "academician",
+      "title": "Industry-Academia Next-Gen Cloud Architectures FDP",
+      "type": "Faculty Development Program (FDP)",
+      "organizer": "SkillOrbit Cloud Research Group",
+      "description": "A collaborative 2-week deep dive into microservices and AI workloads.",
+      "duration": "2 Weeks",
+      "mode": "Hybrid",
+      "skills_covered": [],
+      "eligibility": "",
+      "deadline": "2026-11-20",
+      "applicants": [],
+      "created_at": "2026-08-28T17:27:48.326658+00:00"
+    },
+    {
+      "_id": "5f42755b-4636-405b-9daf-6bd5e1b2df01",
+      "creator_id": "a6138d7f-a515-4230-a748-39558bf383d5",
+      "creator_role": "academician",
+      "title": "Industry-Academia Next-Gen Cloud Architectures FDP",
+      "type": "Faculty Development Program (FDP)",
+      "organizer": "SkillOrbit Cloud Research Group",
+      "description": "A collaborative 2-week deep dive into microservices and AI workloads.",
+      "duration": "2 Weeks",
+      "mode": "Hybrid",
+      "skills_covered": [],
+      "eligibility": "",
+      "deadline": "2026-11-20",
+      "applicants": [],
+      "created_at": "2026-08-28T17:29:14.076372+00:00"
+    }
+  ],
+  "chat_sessions": [
+    {
+      "_id": "96db62ed-f288-406b-92b5-c7eccefc6534",
+      "user_id": "f64eb45d-f8f6-4aad-aac3-b0e6f8bd50f8",
+      "role": "student",
+      "title": "What skills should I focus on to be...",
+      "created_at": "2026-08-28T17:27:48.338879+00:00",
+      "updated_at": "2026-08-28T17:27:48.338879+00:00"
+    },
+    {
+      "_id": "914d9981-7bc6-463b-af6d-07c3be466c26",
+      "user_id": "d6414e58-8fe8-42e1-a03b-01a608c8b7b9",
+      "role": "student",
+      "title": "What skills should I focus on to be...",
+      "created_at": "2026-08-28T17:29:14.087857+00:00",
+      "updated_at": "2026-08-28T17:29:14.087857+00:00"
+    },
+    {
+      "_id": "ea7715a4-4dd0-4c80-b221-d9c34f56f4ef",
+      "user_id": "admin-system-master",
+      "role": "admin",
+      "title": "bye",
+      "created_at": "2026-08-28T18:12:49.628569+00:00",
+      "updated_at": "2026-08-28T18:14:43.229905+00:00"
+    }
+  ],
+  "chat_messages": [
+    {
+      "_id": "0e98a36c-cf6f-4639-87a2-6254a183cfb6",
+      "session_id": "96db62ed-f288-406b-92b5-c7eccefc6534",
+      "user_id": "f64eb45d-f8f6-4aad-aac3-b0e6f8bd50f8",
+      "sender": "user",
+      "content": "What skills should I focus on to become a top Full Stack Developer?",
+      "timestamp": "2026-08-28T17:27:48.338879+00:00"
+    },
+    {
+      "_id": "c2a539e5-2be1-432c-9764-4502a2260d0b",
+      "session_id": "96db62ed-f288-406b-92b5-c7eccefc6534",
+      "user_id": "f64eb45d-f8f6-4aad-aac3-b0e6f8bd50f8",
+      "sender": "assistant",
+      "content": "As your SkillOrbit AI advisor for **Student**, I recommend reviewing your Skill Passport to identify critical missing proficiencies. Focus on completing verified assessments and building evidence-backed projects to increase your placement readiness score.",
+      "timestamp": "2026-08-28T17:27:48.346439+00:00"
+    },
+    {
+      "_id": "bcb2e16e-2e3d-4c8e-afd4-338a3ad99afd",
+      "session_id": "914d9981-7bc6-463b-af6d-07c3be466c26",
+      "user_id": "d6414e58-8fe8-42e1-a03b-01a608c8b7b9",
+      "sender": "user",
+      "content": "What skills should I focus on to become a top Full Stack Developer?",
+      "timestamp": "2026-08-28T17:29:14.087857+00:00"
+    },
+    {
+      "_id": "75df2ba5-e939-40c7-b623-c8daee63cd81",
+      "session_id": "914d9981-7bc6-463b-af6d-07c3be466c26",
+      "user_id": "d6414e58-8fe8-42e1-a03b-01a608c8b7b9",
+      "sender": "assistant",
+      "content": "As your SkillOrbit AI advisor for **Student**, I recommend reviewing your Skill Passport to identify critical missing proficiencies. Focus on completing verified assessments and building evidence-backed projects to increase your placement readiness score.",
+      "timestamp": "2026-08-28T17:29:14.098290+00:00"
+    },
+    {
+      "_id": "2c0ae879-cf21-48ab-98d2-05ce0c58be3d",
+      "session_id": "ea7715a4-4dd0-4c80-b221-d9c34f56f4ef",
+      "user_id": "admin-system-master",
+      "sender": "user",
+      "content": "bye",
+      "timestamp": "2026-08-28T18:12:49.628569+00:00"
+    },
+    {
+      "_id": "0224870d-25e3-4aa1-8142-41143f891a2d",
+      "session_id": "ea7715a4-4dd0-4c80-b221-d9c34f56f4ef",
+      "user_id": "admin-system-master",
+      "sender": "assistant",
+      "content": "Hello! I am your **SkillOrbit AI Co-Pilot**. As a **Admin**, how can I assist your career, talent search, or academic collaboration goals today?",
+      "timestamp": "2026-08-28T18:12:49.703423+00:00"
+    },
+    {
+      "_id": "400e81f9-cbb2-4f04-944b-d93ca5b8a101",
+      "session_id": "ea7715a4-4dd0-4c80-b221-d9c34f56f4ef",
+      "user_id": "admin-system-master",
+      "sender": "user",
+      "content": "hii",
+      "timestamp": "2026-08-28T18:13:02.927132+00:00"
+    },
+    {
+      "_id": "ff790c32-f693-4fd9-9954-e714eab63c1c",
+      "session_id": "ea7715a4-4dd0-4c80-b221-d9c34f56f4ef",
+      "user_id": "admin-system-master",
+      "sender": "assistant",
+      "content": "Hello! I am your **SkillOrbit AI Co-Pilot**. As a **Admin**, how can I assist your career, talent search, or academic collaboration goals today?",
+      "timestamp": "2026-08-28T18:13:02.956147+00:00"
+    },
+    {
+      "_id": "797b5b75-74f9-45e6-b4c6-4b7ec8edf959",
+      "session_id": "ea7715a4-4dd0-4c80-b221-d9c34f56f4ef",
+      "user_id": "admin-system-master",
+      "sender": "user",
+      "content": "How can I maximize my SkillOrbit profile?",
+      "timestamp": "2026-08-28T18:14:43.229905+00:00"
+    },
+    {
+      "_id": "dd6e8201-0915-437a-9cbb-10d5099ccc4d",
+      "session_id": "ea7715a4-4dd0-4c80-b221-d9c34f56f4ef",
+      "user_id": "admin-system-master",
+      "sender": "assistant",
+      "content": "As your SkillOrbit AI advisor for **Admin**, I recommend reviewing your Skill Passport to identify critical missing proficiencies. Focus on completing verified assessments and building evidence-backed projects to increase your placement readiness score.",
+      "timestamp": "2026-08-28T18:14:43.246967+00:00"
+    }
+  ]
+}
